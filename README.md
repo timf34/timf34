@@ -1,1 +1,2 @@
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timf34)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/timf34/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/timf34github-stats/master/generated/overview.svg#gh-light-mode-only)
